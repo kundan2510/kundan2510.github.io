@@ -1,0 +1,9 @@
+---
+layout: default
+title: Kundan Kumar
+permalink: /other
+---
+<div class="blurb">
+	<h2>Hi there, I'm Kundan Kumar!</h2>
+	<p>I am an aspiring AI researcher currently doing undergrad at IIT Kanpur. Particularly, I wish to develop machines capable of perceiving, reasoning and learning as humans do. I am interested in exploring biologically/neurologically motivated models for the same.</p>
+</div><!-- /.blurb -->
