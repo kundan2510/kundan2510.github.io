@@ -1,7 +1,7 @@
 ---
+permalink: /other
 layout: default
 title: Kundan Kumar
-permalink: /other
 ---
 <div class="blurb">
 	<h2>Hi there, I'm Kundan Kumar!</h2>
